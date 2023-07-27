@@ -21,7 +21,7 @@ export default function About() {
       <p className="mb-3">
       I am an enthusiastic and accomplished {" "}
         <span className="font-medium">full-stack developer</span>, with a strong background in {" "}
-        <span className="font-medium">computer science</span> bolstered by extensive self-study to complement my formal education. I bring a wealth of hands-on experience in both{" "}
+        <span className="font-medium">computer science</span>, bolstered by extensive self-study to complement my formal education. I bring a wealth of hands-on experience in both{" "}
         <span className="italic">frontend and backend </span>development, along with a passion for coding and creating innovative solutions. My dedication to continuous learning and growth allows me to stay ahead of the curve and deliver exceptional results in every project. My core stack
         is{" "}
         <span className="font-medium">
