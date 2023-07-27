@@ -27,9 +27,8 @@ export default function About() {
         <span className="font-medium">
           React, Next.js, Node.js, and MongoDB
         </span>
-        . I am also familiar with TypeScript, Drizzle and Python. I am always looking to
-        learn new technologies. I am eagerly seeking a {" "}
-        <span className="font-medium">full-time position</span> as a passionate software developer. With a dedication to continuous improvement, I am excited to contribute my skills and enthusiasm to drive success in a dynamic team environment.
+        . I am also familiar with TypeScript, Drizzle and Python. I am eagerly seeking a {" "}
+        <span className="font-medium">full-time position</span> as a software developer. With a dedication to continuous improvement, I am excited to contribute my skills and enthusiasm to drive success in a dynamic team environment.
       </p>
     </motion.section>
   );
